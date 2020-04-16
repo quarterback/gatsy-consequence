@@ -1,6 +1,6 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>This blog was created using Forestry &amp; Gatsby with a little Netlify on the side.</p>",
+  "cta": "<p>Get in touch, happy to talk about the perils of design, loose-leaf tea recommendations, ,great music, Finnish baseball, or how to throw a sinker in skeeball.</p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
