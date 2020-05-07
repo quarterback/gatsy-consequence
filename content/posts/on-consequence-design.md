@@ -1,6 +1,6 @@
 ---
 date: 2020-04-25T07:00:00.000+00:00
-hero_image: ''
+hero_image: "/content/images/wrongway.jpg"
 title: On consequence design
 author: Ron Bronson
 
